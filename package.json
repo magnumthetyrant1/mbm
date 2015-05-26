@@ -1,0 +1,23 @@
+{
+  "name": "mbm",
+  "version": "1.0.0",
+  "description": "mbm site ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magnumthetyrant1/mbm.git"
+  },
+  "author": "Max-Andre Zils <zilsmc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnumthetyrant1/mbm/issues"
+  },
+  "homepage": "https://github.com/magnumthetyrant1/mbm",
+  "dependencies": {
+    "express": "^4.12.4",
+    "swig": "^1.4.2"
+  }
+}
